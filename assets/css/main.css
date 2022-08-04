@@ -590,6 +590,7 @@ html {
 .item__section-heading-all {
     color: #4a4a4a;
     font-size: 1.4rem;
+    cursor: pointer;
 }
 
 .item__section-item-heading {
