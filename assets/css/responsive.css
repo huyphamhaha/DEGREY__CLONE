@@ -134,7 +134,12 @@
     }
 
     .header__navbar-search-mobile {
-        display: none;
+        display: block;
+        line-height: 50px;
+        right: 90px;
+        position: absolute;
+        font-size: 2.4rem;
+        padding: 10px 0;
     }
 }
 
