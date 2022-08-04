@@ -8,6 +8,14 @@
         margin-right: 8px;
     }
 
+    .web__container-vourcher-item {
+        margin-top: 20px;
+    }
+    
+    .web__container-vourcher-inner {
+        height: 120px;
+    }
+
     .header__navbar-list {
         display: none;
     }
@@ -126,7 +134,7 @@
     }
 
     .header__navbar-search-mobile {
-        display: block;
+        display: none;
     }
 }
 
